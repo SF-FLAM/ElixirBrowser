@@ -11,7 +11,7 @@
 
 > **[English](README.md) | [日本語 (Japanese)](README.ja.md)**
 
-<br>
+&nbsp;
 
 Elixir is a Chromium-based browser with full extension support for Android.  
 Inspired by Kiwi Browser, this project focuses on providing extension compatibility, unique UI improvements, and refining inefficient behaviors.  
@@ -22,7 +22,7 @@ Elixir is an independent fork built directly from the official Chromium source c
 Most Google-dependent features have been removed to block unnecessary communications.  
 However, high-utility features such as Google Translate and Search Suggestions remain available as optional toggles to ensure user convenience.
 
-<br>
+&nbsp;
 
 <p align="center">
   <img src="./assets/Screenshot_0_Elixir_Browser.png" alt="screenshot0" width="32%">
@@ -30,7 +30,7 @@ However, high-utility features such as Google Translate and Search Suggestions r
   <img src="./assets/Screenshot_2_Elixir_Browser.png" alt="screenshot2" width="32%">
 </p>
 
-<br>
+&nbsp;
 
 ## Key Features
 
@@ -55,7 +55,7 @@ However, high-utility features such as Google Translate and Search Suggestions r
 *   **Long-term Development**:
     *   Periodically tracks the latest Chromium releases and provides maintenance on a best-effort basis.
 
-<br>
+&nbsp;
 
 ## Support & Solemn Oath
 
@@ -70,7 +70,7 @@ To be honest, it is quite a struggle for a solo developer. To ensure the long-te
   
 <<**[☕ Buy Me A Coffee](https://buymeacoffee.com/sf_flam)**>>  
 
-<br>
+&nbsp;
 
 ## Download
 
@@ -79,7 +79,7 @@ The latest APK versions are available at the link below:
 
 <<**[Latest Releases](https://github.com/SF-FLAM/ElixirBrowser/releases/latest)**>>
 
-<br>
+&nbsp;
 
 ## History & Roadmap
 
@@ -94,7 +94,7 @@ Consequently, some features have been retained because removing them could break
   
 <<**[History](./CHANGELOG.md)**>>
 
-<br>
+&nbsp;
 
 ## Bug Reports
 
@@ -103,23 +103,23 @@ Note: I primarily use the app with the **Tab Bar enabled and Top Toolbar mode**.
     
 <<**[Issues](https://github.com/SF-FLAM/ElixirBrowser/issues)**>>
 
-<br>
+&nbsp;
 
 ## Q & A
 
 Q : **What are the system requirements?**  
 A : It follows the base Chromium specifications. **Android 10+ (ARM64)** is needed. There is no 32-bit version available.  
-<br>
+&nbsp;
 Q : **Why isn't this open source? Show me the code!**  
 A : I aim to make it open source in the future.  
 However, all code comments are written in Japanese, so I want to translate them into English before publishing.  
 My priority is on updates, and I don't have the bandwidth for code management yet, so I plan to proceed slowly.  
-<br>
+&nbsp;
 Q : **Is there a built-in password manager?**  
 A : No. It utilizes the password manager specified in your Android system settings.  
 While Google Password Manager is the standard, warnings may appear on non-major browsers like Kiwi or Elixir depending on the Android version. However, password input itself works without issues.  
 Personally, I recommend using **Bitwarden** (the standalone app, not the extension). I have confirmed that passkeys work perfectly with it.  
-<br>
+&nbsp;
 Q : **There are two ad-blockers in the Speed Dial defaults; which one is recommended?**  
 A : Please use whichever you prefer. Personally, I use **AdGuard**.  
 
@@ -136,7 +136,7 @@ A : Please use whichever you prefer. Personally, I use **AdGuard**.
   - The popup does not function at all (It just spins endlessly on PC too, so maybe it's by design?).
   - It seems impossible to temporarily turn it OFF for the current site.
 
-<br>
+&nbsp;
 
 ## Bonus
 
