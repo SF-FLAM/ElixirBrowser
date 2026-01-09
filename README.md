@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/Elixir-icon.png" alt="Elixir Browser Logo" width="256"/>
+  <img src="./assets/Elixir-icon.png" alt="Elixir Browser Logo" width="256" height="256"/>
 </p>
 
 <p align="center">
@@ -24,13 +24,7 @@ However, high-utility features such as Google Translate and Search Suggestions r
 
 <br>
 
-<p align="center">
-  <img src="./assets/Screenshot_0_Elixir_Browser.png" alt="screenshot0" width="32%">
-  <img src="./assets/Screenshot_1_Elixir_Browser.png" alt="screenshot1" width="32%">
-  <img src="./assets/Screenshot_2_Elixir_Browser.png" alt="screenshot2" width="32%">
-</p>
 
-<br>
 
 ## Key Features
 
