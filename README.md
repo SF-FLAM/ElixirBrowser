@@ -24,11 +24,11 @@ However, high-utility features such as Google Translate and Search Suggestions r
 
 <br>
 
-<div align="center" style="overflow-x: auto; white-space: nowrap;">
-  <img src="./assets/Screenshot_0_Elixir_Browser.png" alt="screenshot0" height="600" style="margin-right: 10px;">
-  <img src="./assets/Screenshot_1_Elixir_Browser.png" alt="screenshot1" height="600" style="margin-right: 10px;">
-  <img src="./assets/Screenshot_2_Elixir_Browser.png" alt="screenshot2" height="600">
-</div>
+<p align="center">
+  <img src="./assets/Screenshot_0_Elixir_Browser.png" alt="screenshot0" width="32%">
+  <img src="./assets/Screenshot_1_Elixir_Browser.png" alt="screenshot1" width="32%">
+  <img src="./assets/Screenshot_2_Elixir_Browser.png" alt="screenshot2" width="32%">
+</p>
 
 <br>
 
