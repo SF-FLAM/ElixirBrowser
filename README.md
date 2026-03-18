@@ -10,7 +10,7 @@
 
 # Elixir Browser
 
-> **[English](README.md) | [日本語 (Japanese)](README.ja.md)**
+> **[English](README.md) | [Русский (Russian)](README.ru.md) | [简体中文 (Chinese)](README.cn.md) | [日本語 (Japanese)](README.ja.md)**
 
 <br>
 
